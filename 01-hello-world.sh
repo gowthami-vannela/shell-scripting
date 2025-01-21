@@ -3,4 +3,4 @@
 # This line is commented
 
 echo "Hello world!"
-echo "Hi, katthi!"
+echo "Hi,pandu!"
