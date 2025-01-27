@@ -1,11 +1,10 @@
-
 #!/bin/bash
 
-MOVIES=("pushpa""rrr""devara")
-# index starts from 0,size is 3
+MOVIES=("pushpa" "rrr" "devara")
+# index starts from 0, size is 3
 
-echo "Frist movie:${MOVIES[0]}"
-echo "Second movie:${MOVIES[1]}"
-echo "Third movie:${MOVIES[2]}"
+echo "First movie: ${MOVIES[0]}"
+echo "First movie: ${MOVIES[1]}"
+echo "First movie: ${MOVIES[2]}"
 
-echo "All movies are: ${MOVIES[*]}"
+echo "All movies are:${MOVIES[@]}"
